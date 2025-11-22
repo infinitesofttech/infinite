@@ -1677,7 +1677,7 @@ body.rounded-btns .read-more {
   border-bottom: 1px solid transparent;
 }
 .is-sticky.header-basic {
-  background-color: var(--clr-main);
+  background-color: #174456;
 }
 .is-sticky.header-basic .menu-link {
   color: var(--clr-white) !important;
@@ -1797,6 +1797,7 @@ body.rounded-btns .read-more {
 }
 .header-basic .header-logo .logo-img {
   display: block;
+  width:100px;
 
   max-width: 7rem;
   /* max-height: calc(90px - 10px); */
